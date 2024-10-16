@@ -1,4 +1,4 @@
-## Olá a todos eu sou o Yago estudante de tecnologia e um amante de progração 😁 
+## Olá a todos eu sou o Yago estudante de tecnologia e um amante de programação 😁 
 
 
 
