@@ -7,7 +7,7 @@
 
 ![YagoAamaral GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoAamaral&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagoAamaral&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagoAamaral&layout=donut-vertical)](https://github.com/YagoAamaral/github-readme-stats)
 ## Tecnologias do meu dia a dia
 
 <div style="display: inline_block">
