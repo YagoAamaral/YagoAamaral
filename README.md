@@ -18,5 +18,5 @@
 </div>
 
 ## Últimos trabalho
-- [De fato linux é melhor ](https://youtu.be/ca49BHIJO4w?si=1N1e5n223ePgDsTI)</br>
+- [De fato linux é melhor ]
 
