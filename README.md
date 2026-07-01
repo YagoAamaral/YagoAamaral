@@ -2,9 +2,6 @@
 
 
 
-[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-amaral-542a68282/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BitsK)
-
 ![YagoAamaral GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoAamaral&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagoAamaral&layout=donut-vertical)](https://github.com/YagoAamaral/github-readme-stats)
